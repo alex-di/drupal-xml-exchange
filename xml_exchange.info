@@ -1,0 +1,6 @@
+name = Xml exchange
+description = "Creates nodes from xml"
+package = Custom
+core = 7.x
+files[] = xml_exchange.module
+files[] = xml_exchange.install
